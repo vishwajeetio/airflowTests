@@ -2,7 +2,7 @@
     "files.exclude": {
         "**/env": true,
         "**/.gitignore": true,
-        "**/trash": true,
+        // "**/trash": true,
         "**/requirements.txt": true
     }
 }
